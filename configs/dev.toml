@@ -1,12 +1,12 @@
-name = "Development Mode - Vue Debug - 1 Player"
+name = "Altv Sirius"
 host = "0.0.0.0"
 env = "dev"
 port = 7788
-players = 2
+players = 150
 announce = false
 gamemode = "Roleplay"
 website = "athenaframework.com"
-language = "en"
+language = "de"
 description = "With Reconnect On - Vue Debug - 1 Player Only"
 debug = true
 streamingDistance = 400
